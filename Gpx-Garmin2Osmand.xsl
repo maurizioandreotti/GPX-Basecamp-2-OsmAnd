@@ -1,4 +1,4 @@
-<xsl:stylesheet version="1.0">
+<?xml version="1.0"?>
 	
 <!--
 	Copyright © Maurizio Andreotti
