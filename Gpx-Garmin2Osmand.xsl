@@ -1,4 +1,12 @@
-<xsl:stylesheet version="1.0" 
+<xsl:stylesheet version="1.0">
+	
+<!--
+	Copyright © Maurizio Andreotti
+	GNU General Public License, version 2 (GPL-2.0)
+	http://opensource.org/licenses/gpl-2.0.php
+-->
+	
+<xsl:stylesheet
 	xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns="http://www.topografix.com/GPX/1/1"
 	xmlns:gpx="http://www.topografix.com/GPX/1/1"
@@ -12,7 +20,7 @@
             <xsl:apply-templates select="@*|node()"/>
         </xsl:copy>
     </xsl:template>
-  <!-- remove Garmin extension section -->
+  <!-- remove Garmin Basecamp extension section -->
       <xsl:template match="gpx:wpt">
         <xsl:copy>
             <xsl:apply-templates select="@*|node()[not(self::gpx:extensions)]"/>
