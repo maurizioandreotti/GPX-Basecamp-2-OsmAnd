@@ -3,7 +3,7 @@ This is a project to refine gpx files created with Garmin basecamp to get a more
 
 ## How to us the xls
 
-- donwload the xls
+- download the xls
 
 - apply it to any .gpx file produced with basecamp
 
