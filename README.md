@@ -1,5 +1,5 @@
 # GPX-Basecamp-2-OsmAnd
-This is a project to refine gpx files created with Garmin basecamp to get a more appropriate visualization of Waypoints icons on OsmAnd
+This project is about creating ann XSL to refine gpx files created with Garmin Basecamp to get a more appropriate visualization of waypoints icons on OsmAnd app
 
 ## How to us the xls
 
