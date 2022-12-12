@@ -1,7 +1,7 @@
 # GPX-Basecamp-2-OsmAnd
 This project is about creating ann XSL to refine gpx files created with Garmin Basecamp to get a more appropriate visualization of waypoints icons on OsmAnd app
 
-## How to us the xls
+## How to us the traslator (xsl file)
 
 - download the Gpx-Garmin2Osmand.xsl
 
