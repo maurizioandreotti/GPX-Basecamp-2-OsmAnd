@@ -11,7 +11,7 @@
 	http://opensource.org/licenses/gpl-2.0.php
 -->
 	
-	<xsl:output method="xml" encoding="ASCII" indent="yes" />
+	<xsl:output method="xml" encoding="utf-8" indent="yes" />
  
     <xsl:template match="@*|node()">
         <xsl:copy>
@@ -25,13 +25,13 @@
 	<!-- remove link from metadata -->
 	<xsl:template match="gpx:link" />
 	
-	<!-- remove Garmin Basecamp extension section -->
+	<!-- remove Garmin Basecamp extension section 
 	<xsl:template match="gpx:wpt">
 		<xsl:copy>
 			<xsl:apply-templates select="@*|node()[not(self::gpx:extensions)]"/>
+			
 		</xsl:copy>
-	</xsl:template> 
-
+	</xsl:template> -->
 
 	
 	<!-- create new extension section with Osmand icons -->
@@ -87,13 +87,13 @@
 					<osmand:background>circle</osmand:background>
 				</xsl:when>
 				<!-- Aviation R - private camp -->
-				<xsl:when test=".='Private Field'">Airport
+				<xsl:when test=".='Private Field'">
 					<osmand:icon>air_transport</osmand:icon>
 					<osmand:color>grey</osmand:color>
 					<osmand:background>circle</osmand:background>
 				</xsl:when>
 				<!-- Heliport -->
-				<xsl:when test=".='Heliport'">Airport
+				<xsl:when test=".='Heliport'">
 					<osmand:icon>aeroway_helipad</osmand:icon>
 					<osmand:color>grey</osmand:color>
 					<osmand:background>circle</osmand:background>
