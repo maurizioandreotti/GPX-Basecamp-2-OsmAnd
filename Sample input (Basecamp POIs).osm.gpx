@@ -1,0 +1,2747 @@
+<?xml version="1.0"?>
+<gpx xmlns:gpx="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1" creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd">
+
+  <metadata>
+    
+    <time>2022-12-02T08:48:28Z</time>
+    <bounds maxlat="45.422993917018175" maxlon="7.813715999945998" minlat="45.348114687949419" minlon="7.724281512200832"/>
+  </metadata>
+
+  <wpt lat="45.352710820734501" lon="7.803651345893741">
+    <ele>319.76171875</ele>
+    <time>2022-12-02T07:32:41Z</time>
+    <name>Acustic signal</name>
+    <sym>Horn</sym><extensions><osmand:icon>seamark_notice_regulation_soundhorn</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+     
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:32:41Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+ 
+  <wpt lat="45.384983327239752" lon="7.801872957497835">
+    <ele>446.1328125</ele>
+    <time>2022-12-02T07:25:52Z</time>
+    <name>Amber Circle</name>
+    <sym>Navaid, Amber</sym><extensions><osmand:icon>circle</osmand:icon><osmand:color>&gt;#eecc22</osmand:color><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:25:52Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.386460134759545" lon="7.801275411620736">
+    <ele>452.96484375</ele>
+    <time>2022-12-02T07:24:24Z</time>
+    <name>Area Alianti</name>
+    <sym>Glider Area</sym><extensions><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:24:24Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.373892141506076" lon="7.724281512200832">
+    <ele>327.87890625</ele>
+    <time>2022-12-02T08:45:35Z</time>
+    <name>area picnic</name>
+    <sym>Picnic Area</sym><extensions><osmand:icon>tourism_picnic_site</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T08:45:35Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.371786691248417" lon="7.792277773842216">
+    <ele>378.9921875</ele>
+    <time>2022-12-02T07:35:17Z</time>
+    <name>Argine</name>
+    <sym>Levee</sym><extensions><osmand:icon>water_dam</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:35:17Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.386322671547532" lon="7.787165818735957">
+    <ele>455.03125</ele>
+    <time>2022-12-02T07:22:13Z</time>
+    <name>Aviation Airport</name>
+    <sym>Airport</sym><extensions><osmand:icon>air_transport</osmand:icon><osmand:background>circle</osmand:background><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:22:13Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.379923256114125" lon="7.788956025615335">
+    <ele>480.046875</ele>
+    <time>2022-12-02T07:23:59Z</time>
+    <name>Aviation grey empty circle  - green field</name>
+    <sym>Soft Field</sym><extensions><osmand:icon>air_transport</osmand:icon><osmand:color>grey</osmand:color><osmand:background>circle</osmand:background><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:23:59Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.382804870605469" lon="7.788019180297852">
+    <ele>512.91796875</ele>
+    <time>2022-12-02T07:23:13Z</time>
+    <name>Aviation H</name>
+    <cmt>Bric Vignadoma (520m)</cmt>
+    <desc>Bric Vignadoma (520m)</desc>
+    <sym>Heliport</sym><extensions><osmand:icon>aeroway_helipad</osmand:icon><osmand:color>grey</osmand:color><osmand:background>circle</osmand:background><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:23:13Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.381532246246934" lon="7.78843542560935">
+    <ele>500.44140625</ele>
+    <time>2022-12-02T07:23:45Z</time>
+    <name>Aviation R - private camp</name>
+    <sym>Private Field</sym><extensions><osmand:icon>air_transport</osmand:icon><osmand:color>grey</osmand:color><osmand:background>circle</osmand:background><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:23:45Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.352564472705126" lon="7.764329155907035">
+    <ele>293.03125</ele>
+    <time>2022-12-02T07:54:25Z</time>
+    <name>Bank (Dollar icon)</name>
+    <sym>Bank</sym><extensions><osmand:icon>finance money_bank2</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:54:25Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.350642837584019" lon="7.764146514236927">
+    <ele>291.32421875</ele>
+    <time>2022-12-02T07:54:46Z</time>
+    <name>Bank (Euro icon)</name>
+    <sym>Bank, Euro</sym><extensions><osmand:icon>finance money_bank2</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:54:46Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.355606013908982" lon="7.764262016862631">
+    <ele>295.09765625</ele>
+    <time>2022-12-02T07:54:08Z</time>
+    <name>Bank (pound icon)</name>
+    <sym>Bank, Pound</sym><extensions><osmand:icon>finance money_bank2</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:54:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.35774658434093" lon="7.763464143499732">
+    <ele>297.16796875</ele>
+    <time>2022-12-02T07:53:42Z</time>
+    <name>Bank (yen icon)</name>
+    <sym>Bank, Yen</sym><extensions><osmand:icon>finance money_bank2</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:53:42Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.362662067636847" lon="7.762575745582581">
+    <ele>301.27734375</ele>
+    <time>2022-12-02T07:53:04Z</time>
+    <name>Bar (Beer icon)</name>
+    <sym>Bar</sym><extensions><osmand:icon>amenity_biergarten</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions> 
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:53:04Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.356626510620117" lon="7.813339233398438">
+    <ele>342.4765625</ele>
+    <time>2022-12-02T07:33:35Z</time>
+    <name>Beach</name>
+    <sym>Beach</sym><extensions><osmand:icon>beach tourist_beach2</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:33:35Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.358187137171626" lon="7.787398165091872">
+    <ele>333.1171875</ele>
+    <time>2022-12-02T07:41:58Z</time>
+    <name>Bell</name>
+    <sym>Bell</sym><extensions><osmand:icon>bell</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:41:58Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.375670781359076" lon="7.780525423586369">
+    <ele>354.28125</ele>
+    <time>2022-12-02T07:42:48Z</time>
+    <name>Big city (Green Circle big size)</name>
+    <sym>City (Large)</sym><extensions><osmand:icon>circle</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:42:48Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.351139381527901" lon="7.74864980019629">
+    <ele>295.98046875</ele>
+    <time>2022-12-02T08:35:59Z</time>
+    <name>Bike path (bike icon</name>
+    <sym>Bike Trail</sym><extensions><osmand:icon>topo_trailhead</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T08:35:59Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.383742721751332" lon="7.802542336285114">
+    <ele>439.34765625</ele>
+    <time>2022-12-02T07:26:36Z</time>
+    <name>Black Circle</name>
+    <sym>Navaid, Black</sym><extensions><osmand:icon>circle</osmand:icon><osmand:color>#000001</osmand:color><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:26:36Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.390357971191406" lon="7.785959243774414">
+    <ele>452.0234375</ele>
+    <time>2022-12-02T07:21:35Z</time>
+    <name>Blue 2</name>
+    <sym>Number 2, Blue</sym><extensions><osmand:icon>special_number_2</osmand:icon><osmand:background>circle</osmand:background><osmand:color>#1010a0</osmand:color><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:21:35Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.388190494850278" lon="7.787215523421764">
+    <ele>471.7578125</ele>
+    <time>2022-12-02T07:21:53Z</time>
+    <name>Blue 9</name>
+    <sym>Number 9, Blue</sym><extensions><osmand:icon>special_number_9</osmand:icon><osmand:background>circle</osmand:background><osmand:color>#1010a0</osmand:color><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:21:53Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.398496631532907" lon="7.787369079887867">
+    <ele>383.50390625</ele>
+    <time>2022-12-02T07:20:21Z</time>
+    <name>Blue Capital C</name>
+    <sym>Letter C, Blue</sym><extensions><osmand:icon>special_letter_c</osmand:icon><osmand:background>circle</osmand:background><osmand:color>#1010a0</osmand:color><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:20:21Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt> 
+
+  <wpt lat="45.397493066266179" lon="7.772375531494618">
+    <ele>426.94921875</ele>
+    <time>2022-12-02T07:17:25Z</time>
+    <name>Blue Circle</name>
+    <sym>Circle, Blue</sym><extensions><osmand:icon>circle</osmand:icon><osmand:color>#1010a0</osmand:color><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension> 
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:17:25Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.399952651932836" lon="7.771853003650904">
+    <ele>422.51171875</ele>
+    <time>2022-12-02T07:17:08Z</time>
+    <name>Blue Cube</name>
+    <sym>Block, Blue</sym><extensions><osmand:icon>barrier_block</osmand:icon><osmand:color>#1010a0</osmand:color><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:17:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.412362478673458" lon="7.768064383417368">
+    <ele>337.953125</ele>
+    <time>2022-12-02T07:13:45Z</time>
+    <name>Blue Diamond</name>
+    <sym>Diamond, Blue</sym><extensions><osmand:color>#1010a0</osmand:color><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:13:45Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.393791198730469" lon="7.772140502929688">
+    <ele>444.20703125</ele>
+    <time>2022-12-02T07:17:44Z</time>
+    <name>Blue Elllipse</name>
+    <sym>Oval, Blue</sym><extensions><osmand:color>#1010a0</osmand:color><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:17:44Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.420362753793597" lon="7.766027161851525">
+    <ele>336.05078125</ele>
+    <time>2022-12-02T07:04:21Z</time>
+    <name>Blue Flag</name>
+    <sym>Flag, Blue</sym><extensions><osmand:icon>special_flag_stroke</osmand:icon><osmand:color>#1010a0</osmand:color><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:04:21Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.417026169598103" lon="7.767100464552641">
+    <ele>293.3515625</ele>
+    <time>2022-12-02T07:13:40Z</time>
+    <name>Blue Lens</name>
+    <sym>Pin, Blue</sym><extensions><osmand:icon>special_flag_stroke</osmand:icon><osmand:color>#1010a0</osmand:color><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:13:40Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.402316013351083" lon="7.771257720887661">
+    <ele>425.38671875</ele>
+    <time>2022-12-02T07:16:52Z</time>
+    <name>Blue Rectangle</name>
+    <sym>Rectangle, Blue</sym><extensions><osmand:color>#1010a0</osmand:color><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:16:52Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.404626820236444" lon="7.770895957946777">
+    <ele>425.91015625</ele>
+    <time>2022-12-02T07:13:50Z</time>
+    <name>Blue Square</name>
+    <sym>Square, Blue</sym><extensions><osmand:icon>square</osmand:icon><osmand:color>#1010a0</osmand:color><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:13:50Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.407102415338159" lon="7.770014936104417">
+    <ele>415.73046875</ele>
+    <time>2022-12-02T07:13:48Z</time>
+    <name>Blue Triangle</name>
+    <sym>Triangle, Blue</sym><extensions><osmand:color>#1010a0</osmand:color><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:13:48Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.361532354727387" lon="7.793944850564003">
+    <ele>337.734375</ele>
+    <time>2022-12-02T07:36:24Z</time>
+    <name>Boat relict</name>
+    <sym>Shipwreck</sym><extensions><osmand:icon>historic_ship</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:36:24Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.360102653503418" lon="7.773556709289551">
+    <ele>317.40625</ele>
+    <time>2022-12-02T07:50:15Z</time>
+    <name>Bowling</name>
+    <sym>Bowling</sym><extensions><osmand:icon>sport_bowling</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:50:15Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.364403827115893" lon="7.793152425438166">
+    <ele>344.953125</ele>
+    <time>2022-12-02T07:36:01Z</time>
+    <name>Bridge</name>
+    <sym>Bridge</sym><extensions><osmand:icon>bridge</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:36:01Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.362103916704655" lon="7.78771223500371">
+    <ele>344.3671875</ele>
+    <time>2022-12-02T07:41:24Z</time>
+    <name>Building</name>
+    <sym>Building</sym><extensions><osmand:icon>building</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:41:24Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.367024848237634" lon="7.744959499686956">
+    <ele>310.6015625</ele>
+    <time>2022-12-02T08:00:28Z</time>
+    <name>Bus Stop</name>
+    <sym>Ground Transportation</sym><extensions><osmand:icon>transport_bus_stop</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T08:00:28Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.374101521447301" lon="7.777097979560494">
+    <ele>345.50390625</ele>
+    <time>2022-12-02T07:43:00Z</time>
+    <name>Capital city (green star)</name>
+    <sym>City (Capitol)</sym><extensions><osmand:icon>star</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:43:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.360396690666676" lon="7.781322626397014">
+    <ele>321.14453125</ele>
+    <time>2022-12-02T07:47:16Z</time>
+    <name>Car</name>
+    <sym>Car</sym><extensions><osmand:icon>car</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:47:16Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.372419357299805" lon="7.742786407470703">
+    <ele>316.078125</ele>
+    <time>2022-12-02T07:59:27Z</time>
+    <name>Car hiring</name>
+    <sym>Car Rental</sym><extensions><osmand:icon>amenity_car_rental</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:59:27Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.372329922392964" lon="7.751174010336399">
+    <ele>323.015625</ele>
+    <time>2022-12-02T07:55:39Z</time>
+    <name>Car mechanic</name>
+    <cmt> 9
+10010, Bairo, Piemonte, ITA</cmt>
+    <desc> 9
+10010, Bairo, Piemonte, ITA</desc>
+    <sym>Car Repair</sym><extensions><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:StreetAddress>9</gpxx:StreetAddress>
+          <gpxx:City>Bairo</gpxx:City>
+          <gpxx:State>Piemonte</gpxx:State>
+          <gpxx:Country>ITA</gpxx:Country>
+          <gpxx:PostalCode>10010</gpxx:PostalCode>
+        </gpxx:Address>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Address>
+          <wptx1:StreetAddress>9</wptx1:StreetAddress>
+          <wptx1:City>Bairo</wptx1:City>
+          <wptx1:State>Piemonte</wptx1:State>
+          <wptx1:Country>ITA</wptx1:Country>
+          <wptx1:PostalCode>10010</wptx1:PostalCode>
+        </wptx1:Address>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:55:39Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.368286827579141" lon="7.750647626817226">
+    <ele>309.16796875</ele>
+    <time>2022-12-02T07:56:05Z</time>
+    <name>Car service (service  truck icon)</name>
+    <sym>Wrecker</sym><extensions><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:56:05Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.373449325561523" lon="7.73188591003418">
+    <ele>321.24609375</ele>
+    <time>2022-12-02T08:38:03Z</time>
+    <name>Cemetery</name>
+    <sym>Cemetery</sym><extensions><osmand:icon>cemetery</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T08:38:03Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.353540210053325" lon="7.813385166227818">
+    <ele>334.859375</ele>
+    <time>2022-12-02T07:34:17Z</time>
+    <name>Ceppaia / Cut trees</name>
+    <sym>Stump</sym><extensions><osmand:icon>seamark_obstruction_stump</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:34:17Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.360199799761176" lon="7.787352064624429">
+    <ele>339.0390625</ele>
+    <time>2022-12-02T07:41:41Z</time>
+    <name>Church</name>
+    <sym>Church</sym><extensions><osmand:icon>building_type_church</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:41:41Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.366917308419943" lon="7.802805695682764">
+    <ele>399.89760000000001</ele>
+    <time>2022-12-02T07:30:12Z</time>
+    <name>circle top green, bottom white</name>
+    <sym>Navaid, Green/White</sym><extensions><osmand:icon>circle</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:30:12Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.370230674743652" lon="7.801649663597345">
+    <ele>431.58203125</ele>
+    <time>2022-12-02T07:28:50Z</time>
+    <name>circle top half green, bottom half red</name>
+    <sym>Navaid, Green/Red</sym><extensions><osmand:icon>circle</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:28:50Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.368474163115025" lon="7.801722334697843">
+    <ele>425.38671875</ele>
+    <time>2022-12-02T07:29:21Z</time>
+    <name>Circle top red, bottom green</name>
+    <sym>Navaid, Red/Green</sym><extensions><osmand:icon>circle</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:29:21Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.363033302128315" lon="7.803297881036997">
+    <ele>357.6875</ele>
+    <time>2022-12-02T07:31:00Z</time>
+    <name>Circle top red, bottom white</name>
+    <sym>Navaid, Red/White</sym><extensions><osmand:icon>circle</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:31:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.364811606705189" lon="7.802821202203631">
+    <ele>361.89453125</ele>
+    <time>2022-12-02T07:30:35Z</time>
+    <name>Circle top white, bottom green</name>
+    <sym>Navaid, White/Green</sym><extensions><osmand:icon>circle</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:30:35Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.361289866268635" lon="7.803189419209957">
+    <ele>340.80859375</ele>
+    <time>2022-12-02T07:31:21Z</time>
+    <name>Circle top white, bottom red</name>
+    <sym>Navaid, White/Red</sym><extensions><osmand:icon>circle</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:31:21Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.367913832888007" lon="7.792578432708979">
+    <ele>362.046875</ele>
+    <time>2022-12-02T07:35:40Z</time>
+    <name>Coastguard</name>
+    <sym>Coast Guard</sym><extensions><osmand:icon>lifeguard_base</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:35:40Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.376222981140018" lon="7.790830051526427">
+    <ele>412.79296875</ele>
+    <time>2022-12-02T07:34:54Z</time>
+    <name>Dam</name>
+    <sym>Dam</sym><extensions><osmand:icon>dam</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:34:54Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.355029087513685" lon="7.813593288883567">
+    <ele>338.4375</ele>
+    <time>2022-12-02T07:34:01Z</time>
+    <name>Darsena</name>
+    <sym>Dock</sym><extensions><osmand:icon>seamark_harbour_ferry</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:34:01Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.357861584052444" lon="7.794779520481825">
+    <ele>328.95703125</ele>
+    <time>2022-12-02T07:36:49Z</time>
+    <name>Death danger</name>
+    <sym>Skull and Crossbones</sym><extensions><osmand:icon>cross</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:36:49Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.381206441670656" lon="7.802344774827361">
+    <ele>426.984375</ele>
+    <time>2022-12-02T07:26:50Z</time>
+    <name>Electric Blue circle</name>
+    <sym>Navaid, Blue</sym><extensions><osmand:icon>circle</osmand:icon><osmand:color>#1010a0</osmand:color><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:26:50Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.364598538726568" lon="7.751907678321004">
+    <ele>306.6875</ele>
+    <time>2022-12-02T07:56:36Z</time>
+    <name>exit (light blue square)</name>
+    <sym>Exit</sym><extensions><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:56:36Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.366883277893066" lon="7.761540412902832">
+    <ele>335.92578125</ele>
+    <time>2022-12-02T07:52:15Z</time>
+    <name>Fast Food (drink icon)</name>
+    <sym>Fast Food</sym><extensions><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:52:15Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.375512363389134" lon="7.742007477208972">
+    <ele>319.79296875</ele>
+    <time>2022-12-02T07:59:10Z</time>
+    <name>Ferry</name>
+    <sym>Ferry</sym><extensions><osmand:icon>seamark_harbour_ferry</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:59:10Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.362262334674597" lon="7.773729125037789">
+    <ele>323.76171875</ele>
+    <time>2022-12-02T07:50:00Z</time>
+    <name>Fitness center</name>
+    <sym>Fitness Center</sym><extensions><osmand:icon>sport_gymnastics</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:50:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.35346276126802" lon="7.796136382967234">
+    <ele>332.2109375</ele>
+    <time>2022-12-02T07:37:49Z</time>
+    <name>fondale algoso</name>
+    <sym>Weed Bed</sym><extensions><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:37:49Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.351163605228066" lon="7.738574333488941">
+    <ele>298.5546875</ele>
+    <time>2022-12-02T08:45:02Z</time>
+    <name>Forest trees</name>
+    <sym>Forest</sym><extensions><osmand:icon>tree</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T08:45:02Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.356738325208426" lon="7.747259745374322">
+    <ele>301</ele>
+    <time>2022-12-02T08:31:27Z</time>
+    <name>Fuel Station</name>
+    <sym>Gas Station</sym><extensions><osmand:icon>fuel</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T08:31:27Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.351001666858792" lon="7.757356083020568">
+    <ele>293</ele>
+    <time>2022-12-02T07:58:44Z</time>
+    <name>Funicolar</name>
+    <sym>Funicular</sym><extensions><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+     
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:58:44Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.348644256591797" lon="7.749910354614258">
+    <ele>294.234375</ele>
+    <time>2022-12-02T08:37:09Z</time>
+    <name>Geocache</name>
+    <sym>Geocache</sym><extensions><osmand:icon>geocache</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T08:37:09Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.361073948442936" lon="7.734858887270093">
+    <ele>310.96875</ele>
+    <time>2022-12-02T08:43:23Z</time>
+    <name>Ghost city</name>
+    <sym>Ghost Town</sym><extensions><osmand:icon>star</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T08:43:23Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.365810394287109" lon="7.726263999938965">
+    <ele>322.140625</ele>
+    <time>2022-12-02T08:46:35Z</time>
+    <name>Golf ball</name>
+    <sym>Golf Course</sym><extensions><osmand:icon>golf_course</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T08:46:35Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.392224788665771" lon="7.786881923675537">
+    <ele>435.125</ele>
+    <time>2022-12-02T07:21:20Z</time>
+    <name>Green 1</name>
+    <sym>Number 1, Green</sym><extensions><osmand:icon>special_number_1</osmand:icon><osmand:background>circle</osmand:background><osmand:color>#00842b</osmand:color><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:21:20Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.404412746429443" lon="7.788405418395996">
+    <ele>387.1328125</ele>
+    <time>2022-12-02T07:19:59Z</time>
+    <name>Green Capital B</name>
+    <sym>Letter B, Green</sym><extensions><osmand:icon>special_letter_b</osmand:icon><osmand:background>circle</osmand:background><osmand:color>#00842b</osmand:color><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:19:59Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.422993917018175" lon="7.790469294413924">
+    <ele>266.69140625</ele>
+    <time>2022-12-02T07:14:05Z</time>
+    <name>green Flag</name>
+    <sym>Flag, Green</sym><extensions><osmand:icon>special_flag_stroke</osmand:icon><osmand:color>#00842b</osmand:color><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:14:05Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.411741212010384" lon="7.789134560152888">
+    <ele>388.328125</ele>
+    <time>2022-12-02T07:19:05Z</time>
+    <name>Grey circlee with ics</name>
+    <sym>Circle with X</sym><extensions><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:19:05Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.364351272583008" lon="7.780546126887202">
+    <ele>326.390625</ele>
+    <time>2022-12-02T07:46:16Z</time>
+    <name>HIgh bilding (antenna tower icon)</name>
+    <sym>Tall Tower</sym><extensions><osmand:icon>man_made_mast</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:46:16Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.381215661764145" lon="7.779802987352014">
+    <ele>418.62109375</ele>
+    <time>2022-12-02T07:38:06Z</time>
+    <name>Hospital</name>
+    <sym>Hospital, Euro</sym><extensions><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:38:06Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.357652874663472" lon="7.774351732805371">
+    <ele>299.92320000000001</ele>
+    <time>2022-12-02T07:50:37Z</time>
+    <name>Hotels (bed)</name>
+    <sym>Lodging</sym><extensions><osmand:icon>tourism_hotel</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:50:37Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.372591018676758" lon="7.77806282043457">
+    <ele>343.9296875</ele>
+    <time>2022-12-02T07:44:45Z</time>
+    <name>House (yellow flag)</name>
+    <sym>Civil</sym><extensions><osmand:icon>house</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:44:45Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.363239999860525" lon="7.726769763976336">
+    <ele>316.85546875</ele>
+    <time>2022-12-02T08:46:51Z</time>
+    <name>Ice ski</name>
+    <sym>Ice Skating</sym><extensions><osmand:icon>ice_skating</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T08:46:51Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.372851276770234" lon="7.785823792219162">
+    <ele>372.9296875</ele>
+    <time>2022-12-02T07:39:19Z</time>
+    <name>Idrante</name>
+    <sym>Water Hydrant</sym><extensions><osmand:icon>emergency_fire_hydrant</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:39:19Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.359088778495789" lon="7.781979264691472">
+    <ele>319.92578125</ele>
+    <time>2022-12-02T07:47:27Z</time>
+    <name>indicator (red flag)</name>
+    <sym>Flag</sym><extensions><osmand:icon>special_flag_stroke</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:47:27Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.362492417916656" lon="7.753261188045144">
+    <ele>304.06640625</ele>
+    <time>2022-12-02T07:57:12Z</time>
+    <name>Info point</name>
+    <sym>Information</sym><extensions><osmand:icon>tourism_information</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:57:12Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.366109125316143" lon="7.786215730011463">
+    <ele>350</ele>
+    <time>2022-12-02T07:40:52Z</time>
+    <name>Library</name>
+    <sym>Library</sym><extensions><osmand:icon>amenity_library</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:40:52Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.359716415405273" lon="7.813339233398438">
+    <ele>356.3203125</ele>
+    <time>2022-12-02T07:33:00Z</time>
+    <name>Light</name>
+    <sym>Light</sym><extensions><osmand:icon>lighting_tower</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:33:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.376453399658203" lon="7.801695093512535">
+    <ele>456.00390625</ele>
+    <time>2022-12-02T07:27:38Z</time>
+    <name>Light green circle</name>
+    <sym>Navaid, Green</sym><extensions><osmand:icon>circle</osmand:icon><osmand:color>#00842b</osmand:color><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:27:38Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.378445358946919" lon="7.802027687430382">
+    <ele>439.80078125</ele>
+    <time>2022-12-02T07:27:10Z</time>
+    <name>Light Red Circle</name>
+    <sym>Navaid, Red</sym><extensions><osmand:icon>circle</osmand:icon><osmand:color>#d00d0d</osmand:color><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:27:10Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.371868582442403" lon="7.770347027108073">
+    <ele>338.7734375</ele>
+    <time>2022-12-02T07:48:27Z</time>
+    <name>Luna Park</name>
+    <sym>Amusement Park</sym><extensions><osmand:icon>air_transport</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:48:27Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.375781171023846" lon="7.761776112020016">
+    <ele>347.921875</ele>
+    <time>2022-12-02T07:51:06Z</time>
+    <name>Mall (shopping bag icon)</name>
+    <sym>Department Store</sym><extensions><osmand:icon>shopping_department_store</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:51:06Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.37327766418457" lon="7.760810852050781">
+    <ele>344.0390625</ele>
+    <time>2022-12-02T07:51:41Z</time>
+    <name>Mall (Shopping Cart)</name>
+    <sym>Shopping Center</sym><extensions><osmand:icon>shop</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:51:41Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.357940960675478" lon="7.813715999945998">
+    <ele>350.44921875</ele>
+    <time>2022-12-02T07:33:13Z</time>
+    <name>Marina</name>
+    <sym>Marina</sym><extensions><osmand:icon>seamark_harbour_marina</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:33:13Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.35511139780283" lon="7.803403828293085">
+    <ele>323.9375</ele>
+    <time>2022-12-02T07:32:26Z</time>
+    <name>Meda</name>
+    <sym>Beacon</sym><extensions><osmand:icon>beacon</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:32:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.375840179622173" lon="7.775791743770242">
+    <ele>348.12109375</ele>
+    <time>2022-12-02T07:42:34Z</time>
+    <name>Medium city (Green Circle mid size)</name>
+    <sym>City (Medium)</sym><extensions><osmand:icon>circle</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:42:34Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.375605318695307" lon="7.750709317624569">
+    <ele>327.421875</ele>
+    <time>2022-12-02T07:55:05Z</time>
+    <name>Miliar stone</name>
+    <sym>Mile Marker</sym><extensions><osmand:icon>topo_milestone</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:55:05Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.370831238105893" lon="7.77806282043457">
+    <ele>339.33984375</ele>
+    <time>2022-12-02T07:45:36Z</time>
+    <name>MIlitar Area</name>
+    <sym>Military</sym><extensions><osmand:icon>military</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:45:36Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.366748664528131" lon="7.780029885470867">
+    <ele>331.140625</ele>
+    <time>2022-12-02T07:46:05Z</time>
+    <name>Mine</name>
+    <sym>Mine</sym><extensions><osmand:icon>natural_cave_entrance</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:46:05Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.353515148162842" lon="7.736563682556152">
+    <ele>302.5546875</ele>
+    <time>2022-12-02T08:44:45Z</time>
+    <name>Mountain peak</name>
+    <sym>Summit</sym><extensions><osmand:icon>natural_peak</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T08:44:45Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.368148777633905" lon="7.770841559395194">
+    <ele>331.27734375</ele>
+    <time>2022-12-02T07:49:01Z</time>
+    <name>Museum</name>
+    <sym>Museum</sym><extensions><osmand:icon>museum</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:49:01Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.368460081517696" lon="7.778871841728687">
+    <ele>334.765625</ele>
+    <time>2022-12-02T07:45:51Z</time>
+    <name>Oil field</name>
+    <sym>Oil Field</sym><extensions><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:45:51Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.371973942965269" lon="7.801425363868475">
+    <ele>442.5</ele>
+    <time>2022-12-02T07:28:34Z</time>
+    <name>Orance circle</name>
+    <sym>Navaid, Orange</sym><extensions><osmand:icon>circle</osmand:icon><osmand:color>&gt;#ff5020</osmand:color><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:28:34Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.371547723188996" lon="7.725058766081929">
+    <ele>326</ele>
+    <time>2022-12-02T08:45:54Z</time>
+    <name>Panoramic viewpoint</name>
+    <sym>Scenic Area</sym><extensions><osmand:icon>viewpoint</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T08:45:54Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.355344163253903" lon="7.796099167317152">
+    <ele>324.640625</ele>
+    <time>2022-12-02T07:37:17Z</time>
+    <name>parete di roccia sul mare</name>
+    <sym>Dropoff</sym><extensions><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:37:17Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.348114687949419" lon="7.740154406055808">
+    <ele>296.8046875</ele>
+    <time>2022-12-02T08:45:17Z</time>
+    <name>Park (single tree icon)</name>
+    <sym>Park</sym><extensions><osmand:icon>tree</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T08:45:17Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.361631428822875" lon="7.746487520635128">
+    <ele>305.125</ele>
+    <time>2022-12-02T08:23:43Z</time>
+    <name>Parking (E icon)</name>
+    <sym>Parking, Euro</sym><extensions><osmand:icon>parking</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T08:23:43Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.364254042506218" lon="7.746328683570027">
+    <ele>308.0703125</ele>
+    <time>2022-12-02T08:22:00Z</time>
+    <name>Parking (payment)</name>
+    <sym>Parking, Pay</sym><extensions><osmand:icon>parking</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T08:22:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.354090062901378" lon="7.748138839378953">
+    <ele>298</ele>
+    <time>2022-12-02T08:32:31Z</time>
+    <name>Path start (trekker icon)</name>
+    <sym>Trail Head</sym><extensions><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T08:32:31Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.373788876459002" lon="7.769408589228988">
+    <ele>342.4453125</ele>
+    <time>2022-12-02T07:48:10Z</time>
+    <name>Pharmacy</name>
+    <sym>Pharmacy</sym><extensions><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:48:10Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.370147107169032" lon="7.761457683518529">
+    <ele>340.9453125</ele>
+    <time>2022-12-02T07:52:01Z</time>
+    <name>Pizza</name>
+    <sym>Pizza</sym><extensions><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:52:01Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.388934053480625" lon="7.77385862544179">
+    <ele>431.2578125</ele>
+    <time>2022-12-02T07:18:28Z</time>
+    <name>Point</name>
+    <sym>Waypoint</sym><extensions><osmand:icon>waypoint</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:18:28Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.377311706542969" lon="7.782611846923828">
+    <ele>369.18359375</ele>
+    <time>2022-12-02T07:38:36Z</time>
+    <name>Police station</name>
+    <sym>Police Station</sym><extensions><osmand:icon>amenity_police</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:38:36Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.379508771002293" lon="7.780766738578677">
+    <ele>382.09765625</ele>
+    <time>2022-12-02T07:39:52Z</time>
+    <name>Post Office</name>
+    <sym>Post Office</sym><extensions><osmand:icon>post_office</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:39:52Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.373708242550492" lon="7.801456796005368">
+    <ele>458.38671875</ele>
+    <time>2022-12-02T07:28:13Z</time>
+    <name>Purple Circle</name>
+    <sym>Navaid, Violet</sym><extensions><osmand:icon>circle</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:28:13Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.357564697042108" lon="7.803232837468386">
+    <ele>329.99609375</ele>
+    <time>2022-12-02T07:32:08Z</time>
+    <name>Radiobeacon</name>
+    <sym>Radio Beacon</sym><extensions><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:32:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.370044596493244" lon="7.743922155350447">
+    <ele>313.453125</ele>
+    <time>2022-12-02T07:59:47Z</time>
+    <name>Railway (train icon)</name>
+    <sym>Railway</sym><extensions><osmand:icon>railway_station</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:59:47Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.407324116677046" lon="7.788162594661117">
+    <ele>399.89760000000001</ele>
+    <time>2022-12-02T07:19:32Z</time>
+    <name>RED Capital A</name>
+    <sym>Letter A, Red</sym><extensions><osmand:icon>special_letter_a</osmand:icon><osmand:background>circle</osmand:background><osmand:color>#d00d0d</osmand:color><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:19:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.402288436889648" lon="7.788619995117188">
+    <ele>382.03125</ele>
+    <time>2022-12-02T07:20:46Z</time>
+    <name>Red Capèital D</name>
+    <sym>Letter D, Red</sym><extensions><osmand:icon>special_letter_d</osmand:icon><osmand:background>circle</osmand:background><osmand:color>#d00d0d</osmand:color><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:20:46Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.420965244993567" lon="7.775732651352882">
+    <ele>314.9765625</ele>
+    <time>2022-12-02T07:13:54Z</time>
+    <name>Red Flag</name>
+    <sym>Flag, Red</sym><extensions><osmand:icon>special_flag_stroke</osmand:icon><osmand:color>#d00d0d</osmand:color><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:13:54Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.390994241461158" lon="7.773349760100246">
+    <ele>438.734375</ele>
+    <time>2022-12-02T07:18:04Z</time>
+    <name>Red heart</name>
+    <sym>Favorite</sym><extensions><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:18:04Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.394177436828613" lon="7.78756856918335">
+    <ele>420.64453125</ele>
+    <time>2022-12-02T07:21:01Z</time>
+    <name>Red Zero</name>
+    <sym>Number 0, Red</sym><extensions><osmand:icon>special_number_0</osmand:icon><osmand:background>circle</osmand:background><osmand:color>#d00d0d</osmand:color><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:21:01Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.37062437273562" lon="7.785038659349084">
+    <ele>355.015625</ele>
+    <time>2022-12-02T07:40:12Z</time>
+    <name>Residence</name>
+    <sym>Residence</sym><extensions><osmand:icon>house</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:40:12Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.359750110656023" lon="7.762993667274714">
+    <ele>298.59765625</ele>
+    <time>2022-12-02T07:53:22Z</time>
+    <name>Restaurant</name>
+    <sym>Restaurant</sym><extensions><osmand:icon>restaurants</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:53:22Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.355854034423828" lon="7.755873491987586">
+    <ele>299.92320000000001</ele>
+    <time>2022-12-02T07:57:57Z</time>
+    <name>road crossing</name>
+    <sym>Crossing</sym><extensions><osmand:icon>special_symbol_remove</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:57:57Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.358251258730888" lon="7.734710276126862">
+    <ele>307.0859375</ele>
+    <time>2022-12-02T08:43:50Z</time>
+    <name>RVs</name>
+    <sym>RV Park</sym><extensions><osmand:icon>tourism_caravan_site</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T08:43:50Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.364093109965324" lon="7.772739809006453">
+    <ele>326.9140625</ele>
+    <time>2022-12-02T07:49:44Z</time>
+    <name>Sala movie</name>
+    <sym>Movie Theater</sym><extensions><osmand:icon>amenity_theatre</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:49:44Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.367628931999207" lon="7.784961294382811">
+    <ele>351.33984375</ele>
+    <time>2022-12-02T07:40:30Z</time>
+    <name>Schoolbus</name>
+    <sym>School</sym><extensions><osmand:icon>amenity_school</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:40:30Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.361125580966473" lon="7.729002283886075">
+    <ele>312.78515625</ele>
+    <time>2022-12-02T08:47:04Z</time>
+    <name>Ski site</name>
+    <sym>Ski Resort</sym><extensions><osmand:icon>ski_resort</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T08:47:04Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.361894285306334" lon="7.780776293948293">
+    <ele>321.89453125</ele>
+    <time>2022-12-02T07:46:49Z</time>
+    <name>small building (icon: small antenna tower)</name>
+    <sym>Short Tower</sym><extensions><osmand:icon>tower</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:46:49Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.376063138246536" lon="7.785452138632536">
+    <ele>377.234375</ele>
+    <time>2022-12-02T07:42:11Z</time>
+    <name>Small city (Green Circle small size)</name>
+    <sym>City (Small)</sym><extensions><osmand:icon>circle</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:42:11Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.354995727539062" lon="7.735834121704102">
+    <ele>305.8984375</ele>
+    <time>2022-12-02T08:44:27Z</time>
+    <name>Sp222 e Strada Torino (Sp222)</name>
+    <sym>Campground</sym><extensions><osmand:icon>tourism_camp_site</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T08:44:27Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.370101928710938" lon="7.771883010864258">
+    <ele>335.57421875</ele>
+    <time>2022-12-02T07:48:46Z</time>
+    <name>Stadium</name>
+    <sym>Stadium</sym><extensions><osmand:icon>sport_stadium</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:48:46Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.35652500577271" lon="7.727870810776949">
+    <ele>307.9921875</ele>
+    <time>2022-12-02T08:47:20Z</time>
+    <name>swimming</name>
+    <sym>Swimming Area</sym><extensions><osmand:icon>sport_swimming</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T08:47:20Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.359719851985574" lon="7.754149166867137">
+    <ele>301.94140625</ele>
+    <time>2022-12-02T07:57:26Z</time>
+    <name>Telephone</name>
+    <sym>Telephone</sym><extensions><osmand:icon>amenity_telephone</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:57:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.368682285770774" lon="7.725548101589084">
+    <ele>322.46484375</ele>
+    <time>2022-12-02T08:46:19Z</time>
+    <name>Tennis ball</name>
+    <sym>Ball Park</sym><extensions><osmand:icon>sport_basebal</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T08:46:19Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.366242481395602" lon="7.771349251270294">
+    <ele>329.66015625</ele>
+    <time>2022-12-02T07:49:17Z</time>
+    <name>Theater</name>
+    <sym>Live Theater</sym><extensions><osmand:icon>amenity_theatre</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:49:17Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.359361860901117" lon="7.746314015239477">
+    <ele>303.25390625</ele>
+    <time>2022-12-02T08:24:03Z</time>
+    <name>Toilet</name>
+    <sym>Restroom</sym><extensions><osmand:icon>amenity_toilets</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T08:24:03Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.354057624936104" lon="7.757102195173502">
+    <ele>296.21875</ele>
+    <time>2022-12-02T07:58:17Z</time>
+    <name>Toll gate</name>
+    <sym>Toll Booth</sym><extensions><osmand:icon>toll_booth</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:58:17Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.363733191043139" lon="7.787084514275193">
+    <ele>347.578125</ele>
+    <time>2022-12-02T07:41:07Z</time>
+    <name>Town Hall</name>
+    <sym>City Hall</sym><extensions><osmand:icon>amenity_townhall</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:41:07Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.363390874117613" lon="7.734325043857098">
+    <ele>312.390625</ele>
+    <time>2022-12-02T08:42:48Z</time>
+    <name>track (shoes icon)</name>
+    <sym>TracBack Point</sym><extensions><osmand:icon>point</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T08:42:48Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.357720013707876" lon="7.754953075200319">
+    <ele>300.1640625</ele>
+    <time>2022-12-02T07:57:43Z</time>
+    <name>Tunnel</name>
+    <sym>Tunnel</sym><extensions><osmand:icon>tunnel</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:57:43Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.351240634918213" lon="7.730019092559815">
+    <ele>301.6484375</ele>
+    <time>2022-12-02T08:48:00Z</time>
+    <name>Via Faulenta e track road</name>
+    <sym>Flag, Blue</sym><extensions><osmand:icon>special_flag_stroke</osmand:icon><osmand:color>#1010a0</osmand:color><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T08:48:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.364869860932231" lon="7.761526582762599">
+    <ele>310.83984375</ele>
+    <time>2022-12-02T07:52:37Z</time>
+    <name>Vine shop (wine glass icon)</name>
+    <sym>Winery</sym><extensions><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:52:37Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.354005321860313" lon="7.728804554790258">
+    <ele>304.96875</ele>
+    <time>2022-12-02T08:47:41Z</time>
+    <name>water ski</name>
+    <sym>Skiing Area</sym><extensions><osmand:icon>ski_resort</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T08:47:41Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.370216090232134" lon="7.732561072334647">
+    <ele>319.703125</ele>
+    <time>2022-12-02T08:38:44Z</time>
+    <name>Water source</name>
+    <sym>Drinking Water</sym><extensions><osmand:icon>water_tap</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T08:38:44Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.359687665477395" lon="7.802678626030684">
+    <ele>335.578125</ele>
+    <time>2022-12-02T07:31:47Z</time>
+    <name>white Boa</name>
+    <sym>Buoy, White</sym><extensions><osmand:icon>seamark_buoy_conical</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:31:47Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.375503478571773" lon="7.802143692970276">
+    <ele>470.19140625</ele>
+    <time>2022-12-02T07:27:54Z</time>
+    <name>White circle</name>
+    <sym>Navaid, White</sym><extensions><osmand:icon>circle</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:27:54Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.386271374300122" lon="7.774037076160312">
+    <ele>424.42578125</ele>
+    <time>2022-12-02T07:18:46Z</time>
+    <name>White Square</name>
+    <sym>Dot, White</sym><extensions><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:18:46Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.366754280403256" lon="7.733020484447479">
+    <ele>316.19921875</ele>
+    <time>2022-12-02T08:39:13Z</time>
+    <name>Wood shelter</name>
+    <sym>Lodge</sym><extensions><osmand:icon>topo_shelter</osmand:icon><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T08:39:13Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.375589728355408" lon="7.769120251759887">
+    <ele>346.8125</ele>
+    <time>2022-12-02T07:47:49Z</time>
+    <name>Zoo (elephant icon)</name>
+    <sym>Zoo</sym><extensions><osmand:displaymode>SymbolAndName</osmand:displaymode></extensions>
+    
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-12-02T07:47:49Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+</gpx>
