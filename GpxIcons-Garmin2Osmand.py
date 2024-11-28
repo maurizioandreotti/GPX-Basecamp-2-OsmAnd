@@ -49,7 +49,7 @@ class Browser(QMainWindow):
                 </head>
                 <body>
                     <h1>Gpx Icons - Garmin2 Osmand</h1>
-                             this program modify a GPX file transforming Garmin icons in Osmand format
+                             This program modifies a GPX file transforming Garmin icons in Osmand format
                 </body>
             </html>
         """)
