@@ -415,49 +415,59 @@
 				<xsl:when test="substring-before(.,',')='Block'">
 					<osmand:icon>barrier_block</osmand:icon>
 				</xsl:when>
-				<!-- triangle, colored -->
+				<!-- triangle, colored  goes into hazard sign-->
 				<xsl:when test=".='Blue Triangle'">
-					<osmand:icon>osmc_blue_triangle</osmand:icon>
+					<osmand:icon>hazard</osmand:icon>
 				</xsl:when>
 				<xsl:when test=".='Black Triangle'">
-					<osmand:icon>osmc_black_triangle </osmand:icon>
+					<osmand:icon>hazard</osmand:icon>
 				</xsl:when>
 				<xsl:when test=".='Green Triangle'">
-					<osmand:icon>osmc_green_triangle</osmand:icon>
+					<osmand:icon>hazard</osmand:icon>
 				</xsl:when>
 				<xsl:when test=".='Orange Triangle'">
-					<osmand:icon>osmc_orange_triangle</osmand:icon>
+					<osmand:icon>hazard</osmand:icon>
 				</xsl:when>
+				
+				
 				<xsl:when test=".='Red Triangle'">
-					<osmand:icon>osmc_red_triangle</osmand:icon>
-				</xsl:when>
+					<osmand:icon>hazard</osmand:icon>
+				</xsl:when>				
+				<xsl:when test=".='Triangle, Red'">
+					<osmand:icon>hazard</osmand:icon>
+				</xsl:when>		
+				
 				<xsl:when test=".='White Triangle'">
-					<osmand:icon>osmc_white_triangle</osmand:icon>
+					<osmand:icon>hazard</osmand:icon>
 				</xsl:when>
 				<xsl:when test=".='Yellow Triangle'">
-					<osmand:icon>osmc_yellow_triangle</osmand:icon>
+					<osmand:icon>hazard</osmand:icon>
+				</xsl:when>
+				
+				<xsl:when test=".='Triangle, Yellow'">
+					<osmand:icon>hazard</osmand:icon>
 				</xsl:when>
 				<!-- rectangle, colored -->
 				<xsl:when test=".='Blue Rectangle'">
-					<osmand:icon>osmc_blue_rectangle</osmand:icon>
+					<osmand:icon>hazard</osmand:icon>
 				</xsl:when>
 				<xsl:when test=".='Black Rectangle'">
-					<osmand:icon>osmc_black_rectangle </osmand:icon>
+					<osmand:icon>hazard</osmand:icon>
 				</xsl:when>
 				<xsl:when test=".='Green Rectangle'">
-					<osmand:icon>osmc_green_rectangle</osmand:icon>
+					<osmand:icon>hazard</osmand:icon>
 				</xsl:when>
 				<xsl:when test=".='Orange Rectangle'">
-					<osmand:icon>osmc_orange_rectangle</osmand:icon>
+					<osmand:icon>hazard</osmand:icon>
 				</xsl:when>
 				<xsl:when test=".='Red Rectangle'">
-					<osmand:icon>osmc_red_rectangle</osmand:icon>
+					<osmand:icon>hazard</osmand:icon>
 				</xsl:when>
 				<xsl:when test=".='White Rectangle'">
-					<osmand:icon>osmc_white_rectangle</osmand:icon>
+					<osmand:icon>hazard</osmand:icon>
 				</xsl:when>
 				<xsl:when test=".='Yellow Rectangle'">
-					<osmand:icon>osmc_yellow_rectangle</osmand:icon>
+					<osmand:icon>hazard</osmand:icon>
 				</xsl:when>
 				<!-- diamond, colored -->
 				<xsl:when test=".='Blue Diamond'">
@@ -657,39 +667,37 @@
 			</xsl:choose>
 			<!-- colorize icons ..................................................................... -->
 			<xsl:choose>
-				<xsl:when test="substring-after(.,' ')='Amber' or substring-after(.,', ')='Amber'">
+				<xsl:when test="substring-after(.,' ')='Amber' or substring-after(.,', ')='Amber' or substring-before(.,',')='Amber'">
 					<osmand:color>>#eecc22</osmand:color>
 				</xsl:when>
-				<xsl:when test="substring-after(.,' ')='Orange' or substring-after(.,', ')='Orange'">
+				<xsl:when test="substring-after(.,' ')='Orange' or substring-after(.,', ')='Orange'or substring-before(.,',')='Orange'">
 					<osmand:color>>#ff5020</osmand:color>
 				</xsl:when>				
-				<xsl:when test="substring-after(.,' ')='Black' or substring-after(.,', ')='Black'">
+				<xsl:when test="substring-after(.,' ')='Black' or substring-after(.,', ')='Black' or substring-before(.,',')='Black'">
 					<osmand:color>#000001</osmand:color>
 				</xsl:when>				
-				
-				
-				<xsl:when test="substring-after(.,' ')='Blue' or substring-after(.,', ')='Blue'">
+				<xsl:when test="substring-after(.,' ')='Blue' or substring-after(.,', ')='Blue'or substring-before(.,',')='Blue'">
 					<osmand:color>#1010a0</osmand:color>
 				</xsl:when>
-				<xsl:when test="substring-after(.,' ')='Green' or substring-after(.,', ')='Green'">
+				<xsl:when test="substring-after(.,' ')='Green' or substring-after(.,', ')='Green'or substring-before(.,',')='Green'">
 					<osmand:color>#00842b</osmand:color>
 				</xsl:when>
-				<xsl:when test="substring-after(.,' ')='Red' or substring-after(.,', ')='Red'">
+				<xsl:when test="substring-after(.,' ')='Red' or substring-after(.,', ')='Red' or substring-before(.,',')='Yellow'">">
 					<osmand:color>#d00d0d</osmand:color>
 				</xsl:when>
-				<xsl:when test="substring-after(.,' ')='Brown' or substring-after(.,', ')='Brown'">
+				<xsl:when test="substring-after(.,' ')='Brown' or substring-after(.,', ')='Brown'or substring-before(.,',')='Brown'">
 					<osmand:color>#8e2512</osmand:color>
 				</xsl:when>
-				<xsl:when test="substring-after(.,' ')='Yellow' or substring-after(.,', ')='Yellow'">
+				<xsl:when test="substring-after(.,' ')='Yellow' or substring-after(.,', ')='Yellow'or substring-before(.,',')='Yellow'">
 					<osmand:color>#eecc22</osmand:color>
 				</xsl:when>
-				<xsl:when test="substring-after(.,' ')='Purple' or substring-after(.,', ')='Purple'">
+				<xsl:when test="substring-after(.,' ')='Purple' or substring-after(.,', ')='Purple'or substring-before(.,',')='Purple'">
 					<osmand:color>#a71de1</osmand:color>
 				</xsl:when>
-				<xsl:when test="substring-after(.,' ')='Light Blue' or substring-after(.,', ')='Light Blue'">
+				<xsl:when test="substring-after(.,' ')='Light Blue' or substring-after(.,', ')='Light Blue'or substring-before(.,',')='Light Blue'">
 					<osmand:color>#10c0f0</osmand:color>
 				</xsl:when>
-				<xsl:when test="substring-after(.,' ')='Light Green' or substring-after(.,', ')='Light Green'">
+				<xsl:when test="substring-after(.,' ')='Light Green' or substring-after(.,', ')='Light Green'or substring-before(.,',')='Light Green'">
 					<osmand:color>#88e030</osmand:color>
 				</xsl:when>
 				
